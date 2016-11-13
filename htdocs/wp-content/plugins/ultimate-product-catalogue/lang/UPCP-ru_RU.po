@@ -1,0 +1,695 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ultimate-product-catalogue\n"
+"POT-Creation-Date: 2013-08-31 03:21:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-07-23 16:03+0400\n"
+"Last-Translator: Александр Мамишев <AMamishev@niisokb.ru>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: Functions/Initial_Data.php:13
+msgid "Sample Item"
+msgstr "Образец элемента"
+
+#: Functions/Initial_Data.php:14
+msgid "This is where your description of this product would go."
+msgstr "Здесь будет представлено описание продукта."
+
+#: Functions/Initial_Data.php:17 Functions/Initial_Data.php:23
+msgid "Sample Category"
+msgstr "Образец категории"
+
+#: Functions/Initial_Data.php:24
+msgid "This is where your description of this category would go."
+msgstr "Здесь будет представлено описание категории."
+
+#: Functions/Initial_Data.php:31
+msgid "Sample Catalogue"
+msgstr "Образец каталога"
+
+#: Functions/Initial_Data.php:32
+msgid "This is where your description of this catalogue would go."
+msgstr "Здесь будет представлено описание каталога."
+
+#: Functions/Prepare_Data_For_Insertion.php:11
+#: Functions/Prepare_Data_For_Insertion.php:107
+#: Functions/Prepare_Data_For_Insertion.php:191
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"Размер загружаемого файла превышает параметр upload_max_filesize, указанный "
+"в файле php.ini"
+
+#: Functions/Prepare_Data_For_Insertion.php:14
+#: Functions/Prepare_Data_For_Insertion.php:110
+#: Functions/Prepare_Data_For_Insertion.php:194
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Размер загружаемых файлов превышает значение параметра MAX_FILE_SIZE, "
+"прописанного для этой формы"
+
+#: Functions/Prepare_Data_For_Insertion.php:17
+#: Functions/Prepare_Data_For_Insertion.php:113
+#: Functions/Prepare_Data_For_Insertion.php:197
+msgid "The uploaded file was only partially uploaded"
+msgstr "Файл загружен частично"
+
+#: Functions/Prepare_Data_For_Insertion.php:20
+#: Functions/Prepare_Data_For_Insertion.php:79
+#: Functions/Prepare_Data_For_Insertion.php:116
+#: Functions/Prepare_Data_For_Insertion.php:200
+msgid "No file was uploaded."
+msgstr "Файлы не загружены."
+
+#: Functions/Prepare_Data_For_Insertion.php:24
+#: Functions/Prepare_Data_For_Insertion.php:120
+#: Functions/Prepare_Data_For_Insertion.php:204
+msgid "Missing a temporary folder"
+msgstr "Отсутствует временая папка"
+
+#: Functions/Prepare_Data_For_Insertion.php:27
+#: Functions/Prepare_Data_For_Insertion.php:123
+#: Functions/Prepare_Data_For_Insertion.php:207
+msgid "Failed to write file to disk"
+msgstr "Ошибка записи файла на диск"
+
+#: Functions/Prepare_Data_For_Insertion.php:30
+#: Functions/Prepare_Data_For_Insertion.php:126
+#: Functions/Prepare_Data_For_Insertion.php:210
+msgid "File upload stopped by extension"
+msgstr "Загрузка файла остановлена из-за расширения"
+
+#: Functions/Prepare_Data_For_Insertion.php:34
+#: Functions/Prepare_Data_For_Insertion.php:130
+#: Functions/Prepare_Data_For_Insertion.php:214
+msgid "No error code avaiable"
+msgstr "Код ошибки недоступен"
+
+#: Functions/Prepare_Data_For_Insertion.php:39
+#: Functions/Prepare_Data_For_Insertion.php:219
+msgid "no file was uploaded..."
+msgstr "файлы не были загружены..."
+
+#: Functions/Prepare_Data_For_Insertion.php:56
+msgid "There was an error uploading the file, please try again!"
+msgstr "Ошибка при загрузке файла. Попробуйте еще раз."
+
+#: Functions/Prepare_Data_For_Insertion.php:135
+msgid "No file was uploaded here.."
+msgstr "Файлы сюда не загружались..."
+
+#: Functions/Prepare_Data_For_Insertion.php:176
+msgid "Products have been successfully deleted."
+msgstr "Продукты успешно удалены."
+
+#: Functions/Prepare_Data_For_Insertion.php:302
+msgid "Categories have been successfully deleted."
+msgstr "Категории были успешно удалены"
+
+#: Functions/Prepare_Data_For_Insertion.php:344
+msgid "Sub-Categories have been successfully deleted."
+msgstr "Субкатегории успешно удалены"
+
+#: Functions/Prepare_Data_For_Insertion.php:385
+msgid "Tag(s) have been successfully deleted."
+msgstr "Метка(и) успешно удалена(ы)."
+
+#: Functions/Prepare_Data_For_Insertion.php:428
+msgid "Catalogues have been successfully deleted."
+msgstr "Каталоги были успешно удалены"
+
+#: Functions/Shortcodes.php:161
+msgid "Product Name:"
+msgstr "Наименование продукта:"
+
+#: Functions/Shortcodes.php:167
+msgid "Categories:"
+msgstr "Категории:"
+
+#: Functions/Shortcodes.php:179
+msgid "Sub-Categories:"
+msgstr "Субкатегории:"
+
+#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+#: html/ProductsPage.php:251
+msgid "Tags:"
+msgstr "Метки:"
+
+#: Functions/Shortcodes.php:207
+msgid "Thumbnail"
+msgstr "Превью"
+
+#: Functions/Shortcodes.php:210
+msgid "List"
+msgstr "Список"
+
+#: Functions/Shortcodes.php:213
+msgid "Detail"
+msgstr "Детали"
+
+#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+msgid "Details"
+msgstr "Подробности"
+
+#: Functions/Shortcodes.php:295
+msgid "Images"
+msgstr "Фото"
+
+#: Functions/Update_Admin_Databases.php:14
+msgid "Category has been successfully created."
+msgstr "Категория успешно создана"
+
+#: Functions/Update_Admin_Databases.php:29
+msgid "Category has been successfully edited."
+msgstr "Категория успешно отредактирована"
+
+#: Functions/Update_Admin_Databases.php:55
+msgid "Category has been successfully deleted."
+msgstr "Категория успешно удалена"
+
+#: Functions/Update_Admin_Databases.php:74
+msgid "Sub-Category has been successfully created."
+msgstr "Субкатегория успешно создана."
+
+#: Functions/Update_Admin_Databases.php:102
+msgid "Sub-Category has been successfully edited."
+msgstr "Субкатегория успешно отредактирована."
+
+#: Functions/Update_Admin_Databases.php:128
+msgid "Sub-Category has been successfully deleted."
+msgstr "Субкатегория успешно удалена."
+
+#: Functions/Update_Admin_Databases.php:142
+msgid "Tag has been successfully created."
+msgstr "Метка успешно создана."
+
+#: Functions/Update_Admin_Databases.php:157
+msgid "Tag has been successfully edited."
+msgstr "Метка успешно отредактирована."
+
+#: Functions/Update_Admin_Databases.php:178
+msgid "Tag has been successfully deleted."
+msgstr "Метка успешно удалена."
+
+#: Functions/Update_Admin_Databases.php:192
+msgid "Tag has been successfully deleted from product."
+msgstr "Метка успешно удалена из продукта."
+
+#: Functions/Update_Admin_Databases.php:206
+msgid "Catalogue has been successfully created."
+msgstr "Каталог успешно создан"
+
+#: Functions/Update_Admin_Databases.php:223
+msgid "Catalogue has been successfully edited."
+msgstr "Каталог успешно отредактирован"
+
+#: Functions/Update_Admin_Databases.php:245
+msgid "Products have been successfully added to the catalogue."
+msgstr "Продукты успешно добавлены в каталог."
+
+#: Functions/Update_Admin_Databases.php:266
+msgid "Categories have been successfully added to the catalogue."
+msgstr "Категории были успешно добавлены в каталог"
+
+#: Functions/Update_Admin_Databases.php:285
+msgid "Catalogue has been successfully deleted."
+msgstr "Каталог успешно удален"
+
+#: Functions/Update_Admin_Databases.php:300
+msgid "Product has been successfully deleted from catalogue."
+msgstr "Продукт успешно удален из каталога."
+
+#: Functions/Update_Admin_Databases.php:348
+msgid "Menu item has been successfully created."
+msgstr "Пункт меню успешно создан"
+
+#: Functions/Update_Admin_Databases.php:411
+msgid "Menu item has been successfully edited."
+msgstr "Пункт меню успешно отредактирован"
+
+#: Functions/Update_Admin_Databases.php:448
+msgid "You have a column which is not recognized: "
+msgstr "Одна из ваших колонок не распознается:"
+
+#: Functions/Update_Admin_Databases.php:448
+msgid ""
+". <br>Please make sure that the column names match the product field labels "
+"exactly."
+msgstr ""
+". <br>Пожалуйста, убедитесь, что имена столбцов в точности соответствуют "
+"именам полей продукта."
+
+#: Functions/Update_Admin_Databases.php:509
+msgid "Products added successfully."
+msgstr "Продукты успешно добавлены."
+
+#: Functions/Update_Admin_Databases.php:547
+msgid "Product has been successfully deleted."
+msgstr "Продукт успешно удален."
+
+#: Functions/Update_Admin_Databases.php:560
+msgid "Image has been successfully added to the product."
+msgstr "Фото успешно добавлено к продукту"
+
+#: Functions/Update_Admin_Databases.php:574
+msgid "Image has been successfully removed."
+msgstr "Фото успешно удалено"
+
+#: Functions/Update_UPCP_Content.php:76
+msgid "The form has not worked correctly. Please contact the plugin developer."
+msgstr "Ошибка в работе формы. Пожалуйста, свяжитесь с разработчиком плагина."
+
+#: html/AdminHeader.php:2
+msgid "Ultimate Product Catalogue Settings"
+msgstr "Настройки плагина"
+
+#: html/CatalogueDetails.php:9 html/ItemDetails.php:9 html/ItemDetails.php:154
+#: html/ItemDetails.php:217 html/ItemDetails.php:288
+msgid "Back"
+msgstr "Назад"
+
+#: html/CatalogueDetails.php:18 html/CataloguesPage.php:50
+#: html/CataloguesPage.php:77 html/CataloguesPage.php:170
+#: html/CategoriesPage.php:51 html/CategoriesPage.php:78
+#: html/CategoriesPage.php:171 html/DashboardPage.php:72
+#: html/DashboardPage.php:99 html/ItemDetails.php:18 html/ItemDetails.php:162
+#: html/ItemDetails.php:225 html/ItemDetails.php:296 html/ProductsPage.php:50
+#: html/ProductsPage.php:91 html/ProductsPage.php:205
+#: html/SubCategoriesPage.php:50 html/SubCategoriesPage.php:84
+#: html/SubCategoriesPage.php:185 html/TagsPage.php:51 html/TagsPage.php:78
+#: html/TagsPage.php:171
+msgid "Name"
+msgstr "Имя"
+
+#: html/CatalogueDetails.php:20 html/CataloguesPage.php:172
+msgid ""
+"The name of the catalogue. This is for your own internal use, and to insert "
+"the catalogue into a page or post."
+msgstr ""
+"Название каталога. Для внутреннего использования и для вставки в страницу "
+"или в запись."
+
+#: html/CatalogueDetails.php:23 html/CataloguesPage.php:57
+#: html/CataloguesPage.php:84 html/CataloguesPage.php:175
+#: html/CategoriesPage.php:58 html/CategoriesPage.php:85
+#: html/CategoriesPage.php:176 html/DashboardPage.php:79
+#: html/DashboardPage.php:106 html/ItemDetails.php:34 html/ItemDetails.php:167
+#: html/ItemDetails.php:243 html/ItemDetails.php:301 html/ProductsPage.php:57
+#: html/ProductsPage.php:98 html/ProductsPage.php:220
+#: html/SubCategoriesPage.php:64 html/SubCategoriesPage.php:98
+#: html/SubCategoriesPage.php:201 html/TagsPage.php:58 html/TagsPage.php:85
+#: html/TagsPage.php:176
+msgid "Description"
+msgstr "Описание"
+
+#: html/CatalogueDetails.php:25
+msgid "The description of the catalogue. What products are included in this?"
+msgstr "Описание каталога. Какие продукты включены в него?"
+
+#: html/CatalogueDetails.php:28
+msgid "Custom CSS"
+msgstr "Ваш CSS"
+
+#: html/CatalogueDetails.php:30
+msgid "Custom CSS styles that should be applied to this catalogue."
+msgstr "Ваши CSS стили для этого каталога."
+
+#: html/CatalogueDetails.php:34
+msgid "Edit Catalogue"
+msgstr "Редактировать каталог"
+
+#: html/CatalogueDetails.php:48
+msgid "Products"
+msgstr "Продукты"
+
+#: html/CatalogueDetails.php:53 html/CatalogueDetails.php:103
+#: html/DashboardPage.php:193
+msgid "View All"
+msgstr "Показать все"
+
+#: html/CatalogueDetails.php:88 html/CatalogueDetails.php:138
+msgid "Add to Catalogue"
+msgstr "Добавить в каталог"
+
+#: html/CatalogueDetails.php:98
+msgid "Categories"
+msgstr "Категории"
+
+#: html/CatalogueDetails.php:161 html/CatalogueDetails.php:168
+msgid "Delete?"
+msgstr "Удалить?"
+
+#: html/CatalogueDetails.php:162 html/CatalogueDetails.php:169
+msgid "Catalogue Item Name"
+msgstr "Имя элемента каталога"
+
+#: html/CatalogueDetails.php:163 html/CatalogueDetails.php:170
+msgid "Type of Catalogue Item"
+msgstr "Тип элемента каталога"
+
+#: html/CatalogueDetails.php:179 html/CataloguesPage.php:27
+#: html/CataloguesPage.php:116 html/CataloguesPage.php:137
+#: html/CategoriesPage.php:117 html/CategoriesPage.php:138
+#: html/DashboardPage.php:49 html/DashboardPage.php:138
+#: html/DashboardPage.php:159 html/ItemDetails.php:107
+#: html/ProductsPage.php:27 html/ProductsPage.php:144
+#: html/ProductsPage.php:169 html/SubCategoriesPage.php:27
+#: html/SubCategoriesPage.php:152 html/TagsPage.php:28 html/TagsPage.php:117
+#: html/TagsPage.php:138
+msgid "Delete"
+msgstr "Удалить"
+
+#: html/CataloguesPage.php:26 html/CataloguesPage.php:136
+#: html/CategoriesPage.php:27 html/CategoriesPage.php:137
+#: html/DashboardPage.php:48 html/DashboardPage.php:158
+#: html/ProductsPage.php:26 html/ProductsPage.php:168
+#: html/SubCategoriesPage.php:26 html/SubCategoriesPage.php:151
+#: html/TagsPage.php:27 html/TagsPage.php:137
+msgid "Bulk Actions"
+msgstr "Групповые действия"
+
+#: html/CataloguesPage.php:29 html/CataloguesPage.php:139
+#: html/CategoriesPage.php:30 html/DashboardPage.php:51
+#: html/DashboardPage.php:161 html/ProductsPage.php:29
+#: html/ProductsPage.php:171 html/SubCategoriesPage.php:29
+#: html/TagsPage.php:140
+msgid "Apply"
+msgstr "Применить"
+
+#: html/CataloguesPage.php:32 html/CataloguesPage.php:142
+#: html/CategoriesPage.php:33 html/CategoriesPage.php:143
+#: html/DashboardPage.php:54 html/DashboardPage.php:164
+#: html/ProductsPage.php:32 html/ProductsPage.php:174
+#: html/SubCategoriesPage.php:32 html/SubCategoriesPage.php:157
+#: html/TagsPage.php:33 html/TagsPage.php:143
+msgid "items"
+msgstr "элемент"
+
+#: html/CataloguesPage.php:36 html/CataloguesPage.php:146
+#: html/CategoriesPage.php:37 html/CategoriesPage.php:147
+#: html/DashboardPage.php:58 html/DashboardPage.php:168
+#: html/ProductsPage.php:36 html/ProductsPage.php:178
+#: html/SubCategoriesPage.php:36 html/SubCategoriesPage.php:161
+#: html/TagsPage.php:37 html/TagsPage.php:147
+msgid "of"
+msgstr "из"
+
+#: html/CataloguesPage.php:64 html/CataloguesPage.php:91
+#: html/DashboardPage.php:86 html/DashboardPage.php:113
+msgid "Products in Catalogue"
+msgstr "Продукты в каталоге"
+
+#: html/CataloguesPage.php:164
+msgid "Add a New Catalogue"
+msgstr "Добавить новый каталог"
+
+#: html/CataloguesPage.php:177
+msgid "The description of the catalogue. What will it be used to display?"
+msgstr "Описание каталога. Что здесь должно отображаться?"
+
+#: html/CataloguesPage.php:180
+msgid "Add New Catalogue"
+msgstr "Добавить новый каталог"
+
+#: html/CategoriesPage.php:65 html/CategoriesPage.php:92
+#: html/ItemDetails.php:132
+msgid "Products in Category"
+msgstr "Продукты в категории"
+
+#: html/CategoriesPage.php:165
+msgid "Add a New Category"
+msgstr "Добавить новую категорию"
+
+#: html/CategoriesPage.php:173
+msgid "The name of the category for your own purposes."
+msgstr "Имя категории для внутреннего использования."
+
+#: html/CategoriesPage.php:178
+msgid "The description of the category. What will it be used to display?"
+msgstr "Описание категории. Что здесь должно отображаться?"
+
+#: html/CategoriesPage.php:181
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: html/DashboardPage.php:4
+msgid "Pro Version"
+msgstr "Про-версия"
+
+#: html/DashboardPage.php:7
+msgid ""
+"Thanks for being an early adopter! Anyone who installs our plugin before "
+"September 30th receives the pro version free of charge!"
+msgstr ""
+"Спасибо за то, что Вы в числе первых! Все, кто установил плагин до 30 "
+"сентября, получат про-версию бесплатно!"
+
+#: html/DashboardPage.php:12
+msgid "Product Key"
+msgstr "Ключ продукта"
+
+#: html/DashboardPage.php:15
+msgid "Upgrade"
+msgstr "Обновить"
+
+#: html/DashboardPage.php:188
+msgid "Popular Products"
+msgstr "Популярные продукты"
+
+#: html/ItemDetails.php:20 html/ProductsPage.php:207
+msgid "The name of the product your users will see."
+msgstr "Имя продукта для пользователей."
+
+#: html/ItemDetails.php:23 html/ItemDetails.php:94 html/ProductsPage.php:210
+msgid "Image"
+msgstr "Фото"
+
+#: html/ItemDetails.php:26
+msgid ""
+"The main image that will be displayed in association with this product. "
+"Current Image:"
+msgstr "Главное фото этого продукта. Текущее фото:"
+
+#: html/ItemDetails.php:29 html/ProductsPage.php:64 html/ProductsPage.php:105
+#: html/ProductsPage.php:215
+msgid "Price"
+msgstr "Цена"
+
+#: html/ItemDetails.php:31
+msgid "The price of the product."
+msgstr "Цена продукта."
+
+#: html/ItemDetails.php:36 html/ProductsPage.php:222
+msgid ""
+"The description of the product. What is it and what makes it worth getting?"
+msgstr "Описание продукта. Что это и в чем его ценность?"
+
+#: html/ItemDetails.php:39 html/ItemDetails.php:230 html/ProductsPage.php:225
+msgid "Category:"
+msgstr "Категория:"
+
+#: html/ItemDetails.php:49 html/ItemDetails.php:240 html/ProductsPage.php:235
+#: html/SubCategoriesPage.php:198
+msgid ""
+"What category is this product in? Categories help to organize your product "
+"catalogues and help your customers to find what they're looking for."
+msgstr ""
+"В какой категории этот продукт? Категории помогают вам лучше организовать "
+"каталог, а вашим пользователям проще искать."
+
+#: html/ItemDetails.php:52 html/ProductsPage.php:238
+msgid "Sub-Category:"
+msgstr "Субкатегория:"
+
+#: html/ItemDetails.php:62 html/ProductsPage.php:248
+msgid ""
+"What sub-category is this product in? Sub-categories help to organize your "
+"product catalogues and help your customers to find what they're looking for."
+msgstr ""
+"В какой субкатегории этот продукт? Субкатегории помогают вам лучше "
+"организовать каталог, а вашим пользователям проще искать."
+
+#: html/ItemDetails.php:75 html/ProductsPage.php:258
+msgid ""
+"What tags should this product have? Tags help to describe the attributes of "
+"a product."
+msgstr ""
+"Какие метки должны быть у этого продукта? Метки помогают описать свойства "
+"продукта."
+
+#: html/ItemDetails.php:86
+msgid "Add Product Images"
+msgstr "Добавить фото продукта"
+
+#: html/ItemDetails.php:96
+msgid "The secondaries images that will be displayed if Fancybox is enabled."
+msgstr ""
+"Дополнительные фото для отображения во всплывающем Fancybox (если он "
+"включен)."
+
+#: html/ItemDetails.php:102
+msgid "Current Images:"
+msgstr "Текущие фото:"
+
+#: html/ItemDetails.php:114 html/TagsPage.php:218
+msgid "Full Version Required!"
+msgstr "Требуется полная версия!"
+
+#: html/ItemDetails.php:116
+msgid ""
+"The full version of the Ultimate Product Catalogue Plugin is required to "
+"additional product images. Please upgrade to unlock this page!"
+msgstr ""
+"Для дополнительных фото продукта требуется полная версия Ultimate Product "
+"Catalogue Plugin. Купите плагин, чтобы разблокировать страницу."
+
+#: html/ItemDetails.php:164
+msgid "The name of the category your users will see and search for."
+msgstr "Имя категории для пользователей и поиска."
+
+#: html/ItemDetails.php:169
+msgid "The description of the category. What products are included in this?"
+msgstr "Описание категории. Какие продукты должны быть включены в нее?"
+
+#: html/ItemDetails.php:172 html/ItemDetails.php:306
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: html/ItemDetails.php:195 html/SubCategoriesPage.php:71
+#: html/SubCategoriesPage.php:105
+msgid "Products in Sub-Category"
+msgstr "Продукты в субкатегории"
+
+#: html/ItemDetails.php:227
+msgid "The name of the sub-category your users will see and search for."
+msgstr "Имя субкатегории для пользователей и поиска."
+
+#: html/ItemDetails.php:245
+msgid ""
+"The description of the sub-category. What products are included in this?"
+msgstr "Описание субкатегории. Какие продукты должны быть включены в нее?"
+
+#: html/ItemDetails.php:265
+msgid "Products in Tag"
+msgstr "Продукты с меткой"
+
+#: html/ItemDetails.php:298
+msgid "The name of the tag your users will see and search for."
+msgstr "Имя метки для пользователей и поиска."
+
+#: html/ItemDetails.php:303
+msgid "The description of the tag. What products are included in this?"
+msgstr "Описание метки. Какие продукты должны быть включены в нее?"
+
+#: html/ProductsPage.php:71 html/ProductsPage.php:112
+msgid "Category"
+msgstr "Категория"
+
+#: html/ProductsPage.php:78 html/ProductsPage.php:119
+msgid "Sub-Category"
+msgstr "Субкатегория"
+
+#: html/ProductsPage.php:197 html/ProductsPage.php:270
+msgid "Add New Products"
+msgstr "Добавить новые продукты"
+
+#: html/ProductsPage.php:199
+msgid "Add Product Manually"
+msgstr "Добавить продукт вручную"
+
+#: html/ProductsPage.php:212
+msgid "The image that will be displayed in association with this product."
+msgstr "Фото будет связано с этим продуктом."
+
+#: html/ProductsPage.php:217
+msgid "What does this product cost?"
+msgstr "Сколько стоит этот продукт?"
+
+#: html/ProductsPage.php:261
+msgid "Add New Product"
+msgstr "Добавить новый продукт"
+
+#: html/ProductsPage.php:263
+msgid "Add Products from Spreadsheet"
+msgstr "Добавить продукты из таблицы"
+
+#: html/ProductsPage.php:266
+msgid "Spreadhseet Containing Products"
+msgstr "Таблица продуктов"
+
+#: html/ProductsPage.php:268
+msgid ""
+"The spreadsheet containing all of the products you wish to add. Make sure "
+"that the column title names are the same as the field names for products "
+"(ex: Name, Price, etc.), and that any categories and sub-categories are "
+"written exactly the same as they are online."
+msgstr ""
+"Даблица добавляемых продуктов. Пожалуйста, убедитесь, что имена столбцов в "
+"точности соответствуют именам полей продуктов (Имя, Цена и т.д.), и "
+"категории и субкатегории прописаны корректно."
+
+#: html/SubCategoriesPage.php:57 html/SubCategoriesPage.php:91
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+#: html/SubCategoriesPage.php:179
+msgid "Add a New Sub-Category"
+msgstr "Добавить новую субкатегорию"
+
+#: html/SubCategoriesPage.php:187
+msgid "The name of the sub-category for your own purposes."
+msgstr "Имя субкатегории для внутреннего использования."
+
+#: html/SubCategoriesPage.php:190
+msgid "Parent Category:"
+msgstr "Родительская категория:"
+
+#: html/SubCategoriesPage.php:203
+msgid "The description of the sub-category. What will it be used to display?"
+msgstr "Описание субкатегории. Что здесь должно отображаться?"
+
+#: html/SubCategoriesPage.php:206
+msgid "Add New Sub-Category"
+msgstr "Добавить новую субкатегорию"
+
+#: html/TagsPage.php:65 html/TagsPage.php:92
+msgid "Products Tagged"
+msgstr "Продукты. помеченные"
+
+#: html/TagsPage.php:148 html/TagsPage.php:149
+msgid "disabled"
+msgstr "отключено"
+
+#: html/TagsPage.php:165
+msgid "Add a New Tag"
+msgstr "Добавить новую метку"
+
+#: html/TagsPage.php:173
+msgid "The name of the tag for your own purposes."
+msgstr "Имя метки для внутреннего использования."
+
+#: html/TagsPage.php:178
+msgid "The description of the tag. What will it be used to display?"
+msgstr "Описание метки. Что здесь должно отображаться?"
+
+#: html/TagsPage.php:181
+msgid "Add New Tag"
+msgstr "Добавить новую метку"
+
+#: html/TagsPage.php:220
+msgid ""
+"The full version of the Ultimate Product Catalogue Plugin is required to use "
+"tags. Please upgrade to unlock this page!"
+msgstr ""
+"Чтобы использовать метки, требуется полная версия Ultimate Product Catalogue "
+"Plugin. Купите плагин, чтобы разблокировать страницу."
